@@ -1,0 +1,16 @@
+{
+  "name": "wtf",
+  "version": "1.0.0",
+  "description": "Stores and provides user related data for restaurant preferences",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solomon Rajkumar",
+  "license": "ISC"
+}
